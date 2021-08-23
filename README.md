@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently studying a **Computer Engineering Course**
 
-- 👨‍💻 All of my projects are available at [hashaneranga.github.io](hashaneranga.github.io)
+- 👨‍💻 All of my projects are available at [https://github.com/HashanEranga](https://github.com/HashanEranga)
 
 - 📝 I regularly write articles on [https://medium.com/@HashanEranga](https://medium.com/@HashanEranga)
 
