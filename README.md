@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@HashanEranga](https://medium.com/@HashanEranga)
 
-- 📫 How to reach me **ccmrhe@gmail.com**
+- 📫 How to reach me **hashaneranga@ieee.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/13BO3MZZv8TV2CcSWoD9HLx1wvxsWqtQh/view](https://drive.google.com/file/d/13BO3MZZv8TV2CcSWoD9HLx1wvxsWqtQh/view)
 
