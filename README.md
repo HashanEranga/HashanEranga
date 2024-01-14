@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hashan Eranga</h1>
-<h3 align="center">.NET | ANGULAR | Computer Engineering Graduate | UOP | Software Engineer @ CSI | Project Lead - IEEE Techverse Sri Lanka | Web Master - IEEE SIGHT Sri Lanka</h3>
+<h3 align="center">.NET | ANGULAR | Software Engineer @ CSI | Computer Engineering Graduate | UOP/h3>
 
 
 ## 🌐 Socials:
