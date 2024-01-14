@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hashan Eranga</h1>
-<h3 align="center">.NET | ANGULAR | Software Engineer @ CSI | Computer Engineering Graduate | UOP/h3>
+<h3 align="center">.NET | ANGULAR | Software Engineer @ CSI | Computer Engineering Graduate | UOP</h3>
 
 
 ## 🌐 Socials:
